@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data (IMPORTANT)
+data/
+*.csv
+*.bin
+
+# ML artifacts
+mlruns/
+*.db
+*.pkl
+*.tflite
+*.h5
+
+# Node
+node_modules/
+build/
+
+# VS Code
+.vscode/
